@@ -1,8 +1,8 @@
 # PRODIGY_ML_TASK
-Internship Description
+Internship Description :- 
 The internship at PRODIGY INFOTECH offers an unparalleled opportunity to dive deep into the exciting field of machine learning. Interns are exposed to real-world projects and challenges, working closely with experienced mentors to develop their skills and contribute to impactful solutions.
 
-Task Overview
+Task Overview :-
 This repository contains a collection of machine learning tasks assigned during the internship at PRODIGY INFOTECH. Each task is designed to test and enhance interns' understanding of fundamental machine learning concepts and their ability to apply them to practical scenarios.
 
 Task 1: House Price Prediction (Linear Regression)
